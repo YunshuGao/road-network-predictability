@@ -500,3 +500,5 @@ print('running time per iteration:', stop0 - start0)
 
 
 
+
+#%%
